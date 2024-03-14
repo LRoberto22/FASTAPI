@@ -7,6 +7,5 @@ keras
 fastapi
 sqlalchemy
 sqlalchemy.orm
-json
 uvicorn
 tensorflow
