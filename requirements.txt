@@ -1,0 +1,15 @@
+numpy
+pandas
+psycopg2
+datetime
+datetime
+keras.models
+keras.layers
+keras.utils
+fastapi
+fastapi.middleware.cors
+fastapi.responses
+sqlalchemy
+sqlalchemy.orm
+json
+uvicorn
