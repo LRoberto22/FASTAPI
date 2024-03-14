@@ -4,6 +4,8 @@ psycopg2
 datetime
 datetime
 keras
+tensorflow
+python-multipart
 fastapi
 sqlalchemy
 sqlalchemy.orm
