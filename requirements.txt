@@ -8,4 +8,3 @@ fastapi
 sqlalchemy
 sqlalchemy.orm
 uvicorn
-tensorflow
